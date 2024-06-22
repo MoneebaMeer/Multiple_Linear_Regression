@@ -1,2 +1,2 @@
-# Multiple_Linear_Regression
+# codingTasks
 Multiple Linear Regression of the Diabetes Dataset.
